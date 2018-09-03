@@ -1,0 +1,29 @@
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojResolveAssemblyReference.cache
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.Cache
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+C:\Users\ΓΕΩΡΓΙΟΣ\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+\\GEORGE-PC\Users\GEORGE\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+\\GEORGE-PC\Users\GEORGE\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+\\GEORGE-PC\Users\GEORGE\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+\\GEORGE-PC\Users\GEORGE\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojResolveAssemblyReference.cache
+\\GEORGE-PC\Users\GEORGE\source\repos\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+\\GEORGE-PC\Users\GEORGE\source\repos\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+\\GEORGE-PC\Users\GEORGE\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.Cache
+\\GEORGE-PC\Users\GEORGE\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+\\GEORGE-PC\Users\GEORGE\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+C:\Users\George\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+C:\Users\George\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+C:\Users\George\source\repos\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+C:\Users\George\source\repos\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\George\source\repos\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\George\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.Cache
+C:\Users\George\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+C:\Users\George\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+C:\Users\George\source\repos\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojAssemblyReference.cache
